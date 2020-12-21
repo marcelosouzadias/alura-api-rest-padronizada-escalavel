@@ -1,9 +1,9 @@
 ![](https://www.opus-software.com.br/wp-content/uploads/2018/09/nodejs.jpg)
 
-# Curso de Rest com NodeJS: API com Express e MySQL
+# Curso NodeJS: Crie uma API REST padronizada e escalável
 
-Este Git e referente ao curso da Alura **NodeJS: API com Express e MySQL**
+Este Git e referente ao curso da Alura **NodeJS: Crie uma API REST padronizada e escalávelL**
 
-[NodeJS: API com Express e MySQL](https://cursos.alura.com.br/course/node-rest-api)
+[NodeJS: Crie uma API REST padronizada e escalável](https://cursos.alura.com.br/course/nodejs-api-rest-padronizada-escalavel)
 
 
